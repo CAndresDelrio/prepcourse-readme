@@ -1,2 +1,1 @@
-# prepcourse-readme
-este es un repositorio de prueba m2
+este repositorio es una prueba de como crear un clon en mi computadora 
